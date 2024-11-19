@@ -33,9 +33,9 @@ class NasaAPI : AppCompatActivity() {
     lateinit var imageCustomAdapter: ImageCustomAdapter
     lateinit var countEditText: EditText
 
-    data class ImageData(val url: String, val description: String = "", val date: String = "") {
-
-    }
+//    data class ImageData(val url: String, val description: String = "", val date: String = "") {
+//
+//    }
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

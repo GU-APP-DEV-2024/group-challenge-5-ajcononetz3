@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.zybooks.workingwithdata.NasaAPI.ImageData
+import com.zybooks.workingwithdata.ImageData
 import java.net.URL
 
 

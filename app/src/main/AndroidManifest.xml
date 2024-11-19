@@ -17,6 +17,10 @@
             android:exported="false"
             android:parentActivityName=".MainMenu"/>
         <activity
+            android:name=".NasaEarthAPI"
+            android:exported="false"
+            android:parentActivityName=".MainMenu"/>
+        <activity
             android:name=".SQLWork"
             android:exported="false" />
         <activity
